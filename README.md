@@ -4,7 +4,7 @@
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-/*<p align="center">
+<p align="center">
   <img src="" alt="Forks">
 
   <img src="" alt="Stars">
@@ -15,7 +15,7 @@
 
 <p align="center">
   <img alt="NLW eSports" src=".github/cover.png" width="100%">
-</p>*/
+</p>
 
 ## 🚀 Tecnologias
 
