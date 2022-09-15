@@ -1,3 +1,9 @@
+# NLW eSports
+
+> Trilha Explorer
+
+Projeto construido no evento Next Level Week da Rocketseat.
+
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -6,9 +12,9 @@
 
 <br>
 
-<p align="center">
-  <img alt="NLW eSports" src="./assets/preview.png" width="100%">
-</p>
+![preview](./.github/preview.png)
+
+[Clique aqui para acessar](https://brunogoncalvesferreira.github.io/NLWeSports/)
 
 ## 🚀 Tecnologias
 
@@ -16,10 +22,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
+- Git e Github
 
 ## 💻 Projeto
 
 Nessa NLW eSports a ideia desse projeto foi fazer um agregador de links para listar seus jogos e streamers favoritos.
+
 
 ## 🔖 Layout
 
