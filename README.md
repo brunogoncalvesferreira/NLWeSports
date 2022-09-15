@@ -4,13 +4,6 @@
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="center">
-  <img src="" alt="Forks">
-
-  <img src="" alt="Stars">
-
-</p>
-
 <br>
 
 <p align="center">
