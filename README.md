@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img alt="NLW eSports" src=".github/cover.png" width="100%">
+  <img alt="NLW eSports" src="./assets/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
