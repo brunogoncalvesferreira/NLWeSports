@@ -3,6 +3,12 @@ import Header from "./components/Header";
 import ListItem from "./components/ListItem";
 import Section from "./components/Section";
 
+import twitch from "./assets/twitch.svg"
+import instagram from "./assets/instagram.svg"
+import twitter from "./assets/twitter.svg"
+import youtube from "./assets/youtube.svg"
+
+
 const gameListData = [
   {
     url: "https://www.twitch.tv/directory/game/Counter-Strike%3A%20Global%20Offensive",
@@ -45,22 +51,22 @@ const channelListData = [
 const socialListData = [
   {
     url:"https://www.twitch.tv/brunogoncalvesferreira",
-    imageURL:"src/assets/twitch.svg",
+    imageURL:twitch,
     alt:"twitch"
   },
   {
     url:"https://www.instagram.com/brunogonferreira/",
-    imageURL:"src/assets/instagram.svg",
+    imageURL:instagram,
     alt:"Instagram"
   },
   {
     url:"https://twitter.com/BrunoGoferreir",
-    imageURL:"src/assets/twitter.svg",
+    imageURL:twitter,
     alt:"Twitter"
   },
   {
     url:"https://www.youtube.com/channel/UC0cbk6vFw_q15MN_c_Br-8A",
-    imageURL:"src/assets/youtube.svg",
+    imageURL:youtube,
     alt:"Youtube"
   }
 ]
