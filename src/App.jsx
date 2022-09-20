@@ -50,7 +50,7 @@ const socialListData = [
   },
   {
     url:"https://www.instagram.com/brunogonferreira/",
-    imageURL:"/src/assets/instagram.svg",
+    imageURL:"src/assets/instagram.svg",
     alt:"Instagram"
   },
   {
