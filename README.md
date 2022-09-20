@@ -20,7 +20,8 @@ Projeto construido no evento Next Level Week da Rocketseat.
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
+- ReactJS
+- Javascript
 - CSS
 - Git e Github
 
