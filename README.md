@@ -14,7 +14,7 @@ Projeto construido no evento Next Level Week da Rocketseat.
 
 ![preview](./.github/preview.png)
 
-[Clique aqui para acessar](https://brunogoncalvesferreira.github.io/NLWeSports/)
+[Clique aqui para acessar](https://nlw-e-sports.netlify.app)
 
 ## 🚀 Tecnologias
 
