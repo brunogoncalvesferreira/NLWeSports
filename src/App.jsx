@@ -45,22 +45,22 @@ const channelListData = [
 const socialListData = [
   {
     url:"https://www.twitch.tv/brunogoncalvesferreira",
-    imageURL:"./assets/twitch.svg",
+    imageURL:"src/assets/twitch.svg",
     alt:"twitch"
   },
   {
     url:"https://www.instagram.com/brunogonferreira/",
-    imageURL:"./assets/instagram.svg",
+    imageURL:"/src/assets/instagram.svg",
     alt:"Instagram"
   },
   {
     url:"https://twitter.com/BrunoGoferreir",
-    imageURL:"./assets/twitter.svg",
+    imageURL:"src/assets/twitter.svg",
     alt:"Twitter"
   },
   {
     url:"https://www.youtube.com/channel/UC0cbk6vFw_q15MN_c_Br-8A",
-    imageURL:"./assets/youtube.svg",
+    imageURL:"src/assets/youtube.svg",
     alt:"Youtube"
   }
 ]
