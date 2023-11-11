@@ -35,10 +35,10 @@ const channelListData = [
     alt: "Imagem de perfil do canal do Mayk Brito",
   },
   {
-    url: "https://www.twitch.tv/birobirobiro",
+    url: "https://www.twitch.tv/loud_coringa",
     imageURL:
-      "https://static-cdn.jtvnw.net/jtv_user_pictures/b9593cd7-d6f1-478f-b9c5-d7cce38c9257-profile_image-150x150.png",
-    alt: "Imagem de perfil do canal do Biro",
+      "https://static-cdn.jtvnw.net/jtv_user_pictures/c07acddc-1e1b-479f-97c4-09636f80e857-profile_image-150x150.png",
+    alt: "Imagem de perfil do canal do loud_coringa",
   },
   {
     url: "https://www.twitch.tv/nobru",
